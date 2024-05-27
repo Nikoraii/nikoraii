@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, Im Nikola! 👋
+I'm a Full-stack web developer based in Belgrade, Serbia. 📌
 
-<!--
-**Nikoraii/nikoraii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+**Fron-end** <br />
+![Icons](https://skillicons.dev/icons?i=html,css) &emsp; ![Icons](https://skillicons.dev/icons?i=js,ts) &emsp;  ![Icons](https://skillicons.dev/icons?i=react,nextjs) &emsp; ![Icons](https://skillicons.dev/icons?i=vue)  &emsp; ![Icons](https://skillicons.dev/icons?i=sass,tailwind,bootstrap) <br />
 
-Here are some ideas to get you started:
+**Back-end** <br />
+![Icons](https://skillicons.dev/icons?i=nodejs,express) &emsp;  ![Icons](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+[<img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank">](https://www.linkedin.com/in/nikola-dev/)
+
+### If you want to find out more about me feel free to visit my [website](https://www.nikolastancic.com/)! 💻
